@@ -11,9 +11,9 @@ import logoHeart from '@/images/logos/gwc.png'
 
 const projects = [
   {
-    name: 'YOUphoria: A comprehensive sex education app for teens',
+    name: 'IDM: Download manager software using web tech & python',
     description:
-      "YOUphoria is built with Flutter and Firebase Authentication for seamless user experience and secure data handling. Google Maps API provides location-based resources, and ChatGPT API is leveraged to create an inclusive, age-appropriate AI chatbot, addressing teens' nuanced questions with personalized responses.",
+      "smalll decr for idm",
     link: {
       href: 'https://github.com/halcyonCore/youphoria',
       label: 'GitHub',
@@ -21,9 +21,9 @@ const projects = [
     logo: youphoria,
   },
   {
-    name: 'Tailwind Animation Exploration',
+    name: 'clinic manager:software to manage health clinics',
     description:
-      'Leveraging Tailwind CSS, this captivating one-page project showcases mesmerizing animations and innovative blend modes for striking color and movement',
+      'software to organise and simplify work of Dr & health staff',
     link: {
       href: 'https://tailwind-animation-exploration.vercel.app/',
       label: 'tailwind-animation-exploration.vercel.app/',
@@ -31,7 +31,7 @@ const projects = [
     logo: orb,
   },
   {
-    name: 'Girls Who Code TXST',
+    name: 'pos:point of sales with online ecommerce web app',
     description:
       "I've created the entire structure of our Girls Who Code chapter, including our website! It utilizes Stripe's API to accept donations that fund our events and activities.",
     link: { href: 'http://gwc-txst.com', label: 'gwc-txst.com' },
@@ -74,7 +74,7 @@ export default function Projects() {
         <title>Projects - Victoria Jordan</title>
         <meta
           name="description"
-          content="Things I’ve made trying to put my dent in the universe."
+          content="Things I’ve made trying to set my piece on software dev."
         />
       </Head>
       <SimpleLayout

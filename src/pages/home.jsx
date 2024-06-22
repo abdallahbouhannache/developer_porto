@@ -276,16 +276,16 @@ export default function Home({ articles }) {
   return (
     <>
       <Head>
-        <title>Victoria Jordan - Leader, artist, and frontend enthusiast</title>
+        <title>software developer</title>
         <meta
           name="description"
-          content="I'm Victoria Jordan. A leader, artist, and frontend enthusiast"
+          content="I'm abdallah bouhannache, software developer with set of skills"
         />
       </Head>
       <Container className="mt-9">
         <div className="max-w-2xl">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-            Leader, artist, and frontend enthusiast in Austin, TX.
+          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-3xl">
+          I'm abdallah bouhannache, software developer with set of skills .
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I&apos;m Victoria, a computer science student and the Founder and
